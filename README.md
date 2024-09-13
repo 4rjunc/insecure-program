@@ -109,7 +109,7 @@ pub struct TransferPoints<'info> {
 }
 ```
 
-#### 4. Incorrect user validation
+### 4. Incorrect user validation
 
 #### Bug
 
